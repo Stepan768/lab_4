@@ -24,5 +24,16 @@ namespace Lab_4._1_Git
         {
             InitializeComponent();
         }
+
+        private void Division_Click(object sender, RoutedEventArgs e)
+        {
+            string a = first.Text;
+            string b = second.Text;
+            int a1 = int.Parse(a);
+            int b1 = int.Parse(b);
+            int c = a1 / b1;
+            int c1 = Convert.ToInt32(c);
+            equality.Content = c1;
+        }
     }
 }
