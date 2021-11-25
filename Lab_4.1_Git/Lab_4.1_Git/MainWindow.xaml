@@ -6,7 +6,5 @@
         xmlns:local="clr-namespace:Lab_4._1_Git"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="597.917">
-    <Grid>
-        
-    </Grid>
+    <Grid/>
 </Window>
