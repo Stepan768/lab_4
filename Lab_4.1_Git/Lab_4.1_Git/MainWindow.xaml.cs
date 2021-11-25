@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Lab4_4._1_Git
+namespace Lab_4._1_Git
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

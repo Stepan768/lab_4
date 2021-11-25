@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Lab4_4._1_Git
+namespace Lab_4._1_Git
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

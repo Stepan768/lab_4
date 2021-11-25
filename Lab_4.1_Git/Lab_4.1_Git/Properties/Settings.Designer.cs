@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab4_4._1_Git.Properties
+namespace Lab_4._1_Git.Properties
 {
 
 
