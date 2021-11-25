@@ -14,7 +14,7 @@
         <Label x:Name="equality" Content="" HorizontalAlignment="Left" Height="40" Margin="377,138,0,0" VerticalAlignment="Top" Width="93"/>
         <Button x:Name="Plus_Click" Content="+" HorizontalAlignment="Left" Height="40" Margin="131,228,0,0" VerticalAlignment="Top" Width="40" Click="Plus_Click"/>
         <Button x:Name="Minus_Click" Content="-" HorizontalAlignment="Left" Height="40" Margin="203,228,0,0" VerticalAlignment="Top" Width="40" Click="Minus_Click"/>
-        <Button x:Name="Multiplication_Click" Content="*" HorizontalAlignment="Left" Height="40" Margin="292,237,0,0" VerticalAlignment="Top" Width="40" Click="Multiplication_Click"/>
+        <Button x:Name="Multiplication_Click" Content="*" HorizontalAlignment="Left" Height="40" Margin="277,228,0,0" VerticalAlignment="Top" Width="40" Click="Multiplication_Click"/>
 
     </Grid>
 </Window>
