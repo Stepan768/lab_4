@@ -68,5 +68,16 @@ namespace Lab_4._1_Git
             int c1 = Convert.ToInt32(c);
             equality.Content = c1;
         }
+
+        private void Exponent_Click(object sender, RoutedEventArgs e)
+        {
+            string a = first.Text;
+            string b = second.Text;
+            double a1 = int.Parse(a);
+            double b1 = int.Parse(b);
+            double c = Math.Pow(a1, b1);
+            double c1 = Convert.ToDouble(c);
+            equality.Content = c1;
+        }
     }
 }
